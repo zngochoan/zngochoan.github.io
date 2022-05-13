@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'không trả lời hoặc thoát ra là đồng ý ',
     btnYes: 'Yepp',
     btnNo: 'Không!',
-    question:'Nói cho anh biết Linh thích anh nhiều như thế nào đi',
+    question:'Nói cho anh biết Hà thích anh nhiều như thế nào đi',
     btnReply: 'Accept',
     reply: 'reply',
     mess: 'Nhắn tin cho anh đi nàoo',
